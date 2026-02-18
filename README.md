@@ -27,7 +27,6 @@ A simple RESTful Task Manager API built using Express.js and tested using Axios.
 TaskManager/
 │── server.js      # Express backend
 │── client.js      # Axios client
-│── package.json
 │── README.md
 
 ---
